@@ -23,5 +23,7 @@ For this assessment you will use data from two .csv files. These files can be jo
 Amboss has divided the English platform into two main markets: **the United States (US)** and the **rest of the world (RoW)**. A major part of your job here at Amboss would be to understand the company’s performance in each market and how they compare with each other.
 
 ### Task
-> Look at **30-day conversion rates** (conversion within 30 days after registration). Please provide an analysis and guide us through your insights about 30-day conversion rates for different markets (US, RoW). Please also provide possible recommendations to stakeholders based on this information.
+> * Look at **30-day conversion rates** (conversion within 30 days after registration). 
+> * Please provide an analysis and guide us through your insights about 30-day conversion rates for different markets (US, RoW). 
+> * Please also provide possible recommendations to stakeholders based on this information.
 

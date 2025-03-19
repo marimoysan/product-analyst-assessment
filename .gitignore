@@ -130,7 +130,7 @@ dmypy.json
 
 # data
 data/*.csv
-data/*.tsv
+data/*.tsvgit 
 data/*.zip
 data/*.gsv
 data/*.json
